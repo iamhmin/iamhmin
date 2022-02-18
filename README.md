@@ -17,6 +17,6 @@
 
 <h3 align="center">about me</h3>
 <p align="center">
-<a href="http://https://iamhmin.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHubBlog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>&nbsp 
+<a href="https://iamhmin.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHubBlog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>&nbsp 
 <a href="mailto:iamhmin09@gmail.com" target="_blank"><img src="https://img.shields.io/badge/iamhmin09@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
 </p>
